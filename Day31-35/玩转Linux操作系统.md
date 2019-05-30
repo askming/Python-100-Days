@@ -85,15 +85,13 @@ Linux系统的命令通常都是如下所示的格式：
 命令名称 [命名参数] [命令对象]
 ```
 
-<<<<<<< HEAD
+
 1. 获取登录信息 - **w** / **who** / **last**/ **lastb**。
-=======
-<<<<<<< HEAD
+
 1. 获取登录信息 - **w** / **who** / **last**。
-=======
+
 1. 获取登录信息 - **w** / **who** / **last**/ **lastb**。
->>>>>>> master
->>>>>>> ming_study
+
 
    ```Shell
    [root@izwz97tbgo9lkabnat2lo8z ~]# w
@@ -1251,8 +1249,8 @@ build environment:
    vdb               0.00         0.01         0.00       2088          0
    ```
 
-<<<<<<< HEAD
-=======
+
+
 8. 查询网卡参数 - **ethtool**。
 
 9. 显示所有PCI设备 - **lspci**。
@@ -1316,7 +1314,6 @@ build environment:
    | SEE ALSO     | 和命令相关的其他命令或信息                                   |
    | BUGS         | 和命令相关的缺陷的描述                                       |
    | AUTHOR       | 该命令的作者介绍                                             |
-<<<<<<< HEAD
-=======
->>>>>>> master
->>>>>>> ming_study
+
+
+
