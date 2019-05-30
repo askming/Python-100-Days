@@ -86,10 +86,14 @@ Linux系统的命令通常都是如下所示的格式：
 ```
 
 <<<<<<< HEAD
+1. 获取登录信息 - **w** / **who** / **last**/ **lastb**。
+=======
+<<<<<<< HEAD
 1. 获取登录信息 - **w** / **who** / **last**。
 =======
 1. 获取登录信息 - **w** / **who** / **last**/ **lastb**。
 >>>>>>> master
+>>>>>>> ming_study
 
    ```Shell
    [root@izwz97tbgo9lkabnat2lo8z ~]# w
@@ -1312,4 +1316,7 @@ build environment:
    | SEE ALSO     | 和命令相关的其他命令或信息                                   |
    | BUGS         | 和命令相关的缺陷的描述                                       |
    | AUTHOR       | 该命令的作者介绍                                             |
+<<<<<<< HEAD
+=======
 >>>>>>> master
+>>>>>>> ming_study
